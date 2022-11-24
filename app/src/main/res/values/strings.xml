@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="zipcode_entry_error">Invalid Zipcode</string>
+    <string name="zipcode_entry_success">hj</string>
+    <string name="forecast_clicked_format">%1$2.f</string>
+    <string name="title_activity_forecast_details">Forecast Details</string>
+
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
